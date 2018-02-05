@@ -1,0 +1,7 @@
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csprojResolveAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe.config
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.pdb
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.exe
+C:\Users\Osvaldo\Desktop\Curso C#\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.pdb

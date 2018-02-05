@@ -1,0 +1,7 @@
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\bin\Debug\Aula02.1.exe.config
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\bin\Debug\Aula02.1.exe
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\bin\Debug\Aula02.1.pdb
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\obj\Debug\Aula02.1.csprojResolveAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\obj\Debug\Aula02.1.csproj.CoreCompileInputs.cache
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\obj\Debug\Aula02.1.exe
+C:\Users\Osvaldo\Desktop\Curso C#\Aula02\Aula02.1\Aula02.1\obj\Debug\Aula02.1.pdb
