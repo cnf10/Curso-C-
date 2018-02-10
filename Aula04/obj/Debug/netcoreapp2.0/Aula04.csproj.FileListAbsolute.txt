@@ -1,0 +1,10 @@
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\bin\Debug\netcoreapp2.0\Aula04.deps.json
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\bin\Debug\netcoreapp2.0\Aula04.runtimeconfig.json
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\bin\Debug\netcoreapp2.0\Aula04.runtimeconfig.dev.json
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\bin\Debug\netcoreapp2.0\Aula04.dll
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\bin\Debug\netcoreapp2.0\Aula04.pdb
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\obj\Debug\netcoreapp2.0\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\obj\Debug\netcoreapp2.0\Aula04.AssemblyInfoInputs.cache
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\obj\Debug\netcoreapp2.0\Aula04.AssemblyInfo.cs
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\obj\Debug\netcoreapp2.0\Aula04.dll
+C:\Users\OSVALDO\Desktop\Curso C#\Aula04\obj\Debug\netcoreapp2.0\Aula04.pdb
