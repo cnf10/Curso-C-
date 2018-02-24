@@ -1,0 +1,10 @@
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\bin\Debug\netcoreapp2.0\Exercicio04.deps.json
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\bin\Debug\netcoreapp2.0\Exercicio04.runtimeconfig.json
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\bin\Debug\netcoreapp2.0\Exercicio04.runtimeconfig.dev.json
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\bin\Debug\netcoreapp2.0\Exercicio04.dll
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\bin\Debug\netcoreapp2.0\Exercicio04.pdb
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\obj\Debug\netcoreapp2.0\Exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\obj\Debug\netcoreapp2.0\Exercicio04.AssemblyInfoInputs.cache
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\obj\Debug\netcoreapp2.0\Exercicio04.AssemblyInfo.cs
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\obj\Debug\netcoreapp2.0\Exercicio04.dll
+C:\Users\OSVALDO\Desktop\Curso C#\Exercicios\Exercicio04\obj\Debug\netcoreapp2.0\Exercicio04.pdb
